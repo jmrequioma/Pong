@@ -11,9 +11,9 @@ The objective of this game is to try to score until 3. First player to have a sc
   <li>S - move down</li> <br />
   <li>D (Hold) - power up</li> <br />
 </ul>
-</ul>
 <ul>Player 2 : 
 <li>UP keypad - up</li> <br />
 <li>DOWN keypad - down </li> <br />
 <li>LEFT keypad (HOLD)</li> - power up
+</ul>
 </ul>
